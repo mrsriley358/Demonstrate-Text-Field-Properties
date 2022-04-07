@@ -6,7 +6,7 @@ The project was to demonstrate text field properties through writing a program t
 
 This image will display as your example output. Name the image README.jpg in your project folder.
 
-![Sample Output](README.jpg)
+![Sample Output](README.JPG)
 
 ## Analysis Steps
 
